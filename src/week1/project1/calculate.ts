@@ -12,7 +12,7 @@ export function calculate(op1: number, operator: string, op2: number): number | 
      console.log(`Received values in function: ${op1}, ${operator}, ${op2}`);
     if (operator === '+')
         result = op1 + op2
-    else if (operator === '-') {
+    else if (operator === 'sub') {
         if (op1 > op2)
             result = op1 - op2
         else

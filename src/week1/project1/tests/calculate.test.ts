@@ -10,7 +10,7 @@ describe('validate calculate function',() => {
     
    });
      test('add 4-2 equal to 2', () =>{
-        expect(calculate(4,'-',2)).toBe(2);
+        expect(calculate(4,'sub',2)).toBe(2);
     
    });
      test('add 6/3 equal to 2', () =>{
