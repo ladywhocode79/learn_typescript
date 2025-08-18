@@ -6,4 +6,4 @@ To run project use command as
   
 To execute exercises use command as   
 
-  **npm test src/week1/project1/tests/calculate.test.ts**  
+  **npm test src/week1/exercise/tests/sum.test.ts**  

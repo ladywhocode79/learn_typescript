@@ -1,4 +1,4 @@
-import { capitalize } from "../capitalize";
+import { capitalize } from "../../exercise/capitalize";
 describe('capitalize',() => {
     //convert first letter to capital of mixed string
     test('Convert hello -> Hello', () =>{

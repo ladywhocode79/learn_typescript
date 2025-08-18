@@ -1,4 +1,4 @@
-import { contains } from "../array_utility";
+import { contains } from "../../exercise/array_utility";
 describe('array contains',() => {
     
     test('should return true if number found in numbers array', () =>{

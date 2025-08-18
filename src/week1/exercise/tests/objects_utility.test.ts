@@ -1,5 +1,5 @@
-import { getUserName } from "../object_utility" ;
-import { User } from "../user";
+import { getUserName } from "../../exercise/object_utility" ;
+import { User } from "../../exercise/user";
 describe('Get a property from an object',() => {
     
     test('Pass a sample user object and assert the correct name is returned', () =>{

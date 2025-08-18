@@ -1,4 +1,4 @@
-import { sum } from "../sum";
+import { sum } from "../../exercise/sum";
 describe('check function sum',() => {
     //Test two positive number
     test('add 1+2 equal to 3', () =>{

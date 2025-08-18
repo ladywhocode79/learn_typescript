@@ -1,4 +1,4 @@
-import { formatId } from "../union_type";
+import { formatId } from "../../exercise/union_type";
 describe('formatId',() => {
     
     test('send id as string', () =>{
