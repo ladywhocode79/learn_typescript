@@ -1,7 +1,7 @@
 
 
 export class Counter{
-   num=0;
+  num=0;
 
   increment ():number{
     return this.num+1
